@@ -13,9 +13,9 @@
           <code> Pandas </code>
           <code> OS </code>
           <code> RE </code>
+          <code> DataLens </code>
           <code> Предобработка данных </code>
           <code> Визуализация данных </code>
-          <code> DataLens </code>
         </td>
     </tr>
     <tr>
@@ -30,6 +30,12 @@
                 - методы лечения злокачественных новообразований <br>
                 - сведения об отказах и противопоказаниях к лечению  </li>
           </ul>
+        </td>
+        </tr>
+        <td>Дашборд</td>
+        <td> 
+          <a href="https://datalens.yandex/ivspa4cqwl4u7">Статистика лечения злокачественных новообразований
+          </a>
         </td>
     </tr>
 </table>

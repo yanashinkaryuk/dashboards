@@ -31,4 +31,9 @@
           </ul>
         </td>
     </tr>
+        <td>Дашборд</td>
+        <td> 
+          <a href="https://datalens.yandex/oa3d5vbfvgbyd">Показатели по трудоустройству БФ "Все получится"
+          </a>
+        </td>
 </table>
